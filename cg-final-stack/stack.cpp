@@ -3,7 +3,7 @@
 #include<string>
 #include<Windows.h>
 #include<GL/glut.h>
-
+#include <cstdlib>
 using namespace std;
 
 struct elem
