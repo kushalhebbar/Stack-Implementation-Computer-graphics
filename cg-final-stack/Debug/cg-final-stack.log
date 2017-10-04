@@ -1,0 +1,13 @@
+﻿  stack.cpp
+c:\users\kushalhebbar\desktop\cg project\stack\cg-final-stack\cg-final-stack\stack.cpp(51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\kushalhebbar\desktop\cg project\stack\cg-final-stack\cg-final-stack\stack.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\kushalhebbar\desktop\cg project\stack\cg-final-stack\cg-final-stack\stack.cpp(92): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\kushalhebbar\desktop\cg project\stack\cg-final-stack\cg-final-stack\stack.cpp(93): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\kushalhebbar\desktop\cg project\stack\cg-final-stack\cg-final-stack\stack.cpp(94): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\kushalhebbar\desktop\cg project\stack\cg-final-stack\cg-final-stack\stack.cpp(95): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\kushalhebbar\desktop\cg project\stack\cg-final-stack\cg-final-stack\stack.cpp(98): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\kushalhebbar\desktop\cg project\stack\cg-final-stack\cg-final-stack\stack.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\kushalhebbar\desktop\cg project\stack\cg-final-stack\cg-final-stack\stack.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\kushalhebbar\desktop\cg project\stack\cg-final-stack\cg-final-stack\stack.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\kushalhebbar\desktop\cg project\stack\cg-final-stack\cg-final-stack\stack.cpp(147): warning C4018: '<': signed/unsigned mismatch
+  cg-final-stack.vcxproj -> C:\Users\kushalhebbar\Desktop\CG PROJECT\STACK\cg-final-stack\Debug\cg-final-stack.exe
